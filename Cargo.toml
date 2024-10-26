@@ -1,0 +1,11 @@
+[package]
+name = "kovi-plugin-title"
+version = "0.1.0"
+edition = "2021"
+keywords = ["kovi", "kovi-plugin"]
+description = "kovi 的头衔插件。"
+license = "MPL-2.0"
+authors = ["Threkork <threkork@hotmail.com>"]
+
+[dependencies]
+kovi = ">=0.8.0"
